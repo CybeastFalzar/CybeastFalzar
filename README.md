@@ -12,7 +12,7 @@ These are the current cources I am taking for Spring 2022 along with the profess
 
 3. CS331 With Peter the Pepeller Heller
 
-## My Technical Skills
+## 💻My Technical Skills
 * Java
 * Unity3D
 * OOP in C#
