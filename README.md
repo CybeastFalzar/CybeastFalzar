@@ -6,8 +6,8 @@ Filler Text
 
 These are the current cources I am taking for Spring 2022 along with the professor
 
-[CS340 With John aka Lord (POSIX) Farquad]
+1. CS340 With John aka Lord (POSIX) Farquad
 
-[CS323 With Teddy the Misandrist Brown]
+2. CS323 With Teddy the Misandrist Brown
 
-[CS331 With Peter the Pepeller Heller]
+3. CS331 With Peter the Pepeller Heller
