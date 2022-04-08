@@ -17,4 +17,11 @@ These are the current cources I am taking for Spring 2022 along with the profess
 * Unity3D
 * OOP in C#
 * Git
-* 
+* Markdown
+
+### 💾 I am currently learning:
+* POSIX
+* T-SQL
+* Python
+
+## 📨Contact [here](link)
