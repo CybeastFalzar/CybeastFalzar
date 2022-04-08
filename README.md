@@ -19,7 +19,7 @@ These are the current cources I am taking for Spring 2022 along with the profess
 * Git
 * Markdown
 
-### 💾 I am currently learning:
+## 💾 I am currently learning:
 * POSIX
 * T-SQL
 * Python
