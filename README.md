@@ -8,7 +8,7 @@ These are the current cources I am taking for Spring 2022 along with the profess
 
 1. CS340 With John aka Lord (POSIX) Farquad
 
-2. CS323 With Teddy the Dementia Brown
+2. CS323 With Teddy the MIT Lecture Brown
 
 3. CS331 With Peter the Pepeller Heller
 
