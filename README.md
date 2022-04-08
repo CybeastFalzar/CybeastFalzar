@@ -1,5 +1,5 @@
 # Girls Who Code QC Markdown Workshop
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fpin%2FFight-against-depression-by-ScottBrando%2F42054347.NP9QY&psig=AOvVaw1zIjVWJuA-360bgfNyd8TQ&ust=1649529825210000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOjhwNePhfcCFQAAAAAdAAAAABAD">
+<img src = "https://ih1.redbubble.net/image.1156498190.4347/ur,pin_large_front,square,600x600.u3.jpg">
 Hi, my name is Videsh Narine I am a Junior at CUNY Queens College majoring in Computer Science. 
 
 ## Current Courses
